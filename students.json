@@ -1,0 +1,293 @@
+
+{
+  "students": [
+    {
+      "id": 1,
+      "group":"DEV101",
+      "lname": "ABDELFATTAH",
+      "fname": "KHAOULA",
+      "notes": {
+        "note1": 20,
+        "note2": 20,
+        "note3": 20,
+        "note4": 20
+      }
+  },
+  {
+      "id": 2,
+      "group":"DEV101",
+      "lname": "ALAOUI ISMAILI",
+      "fname": "DOAE",
+      "notes": {
+        "note1": 20,
+        "note2": 20,
+        "note3": 20,
+        "note4": 20
+      }
+  },
+  {
+      "id": 3,
+      "group":"DEV101",
+      "lname": "AYACHE",
+      "fname": "OUMAIMA",
+      "notes": {
+        "note1": 20,
+        "note2": 20,
+        "note3": 20,
+        "note4": 20
+      }
+  },
+  {
+      "id": 4,
+      "group":"DEV101",
+      "lname": "BOUGUARNE",
+      "fname": "YASSINE",
+      "notes": {
+        "note1": 20,
+        "note2": 20,
+        "note3": 20,
+        "note4": 20
+      }
+  },
+  {
+      "id": 5,
+      "group":"DEV101",
+      "lname": "CHAIKHI",
+      "fname": "SAFAE",
+      "notes": {
+        "note1": 20,
+        "note2": 20,
+        "note3": 20,
+        "note4": 20
+      }
+  },
+  {
+      "id": 6,
+      "group":"DEV101",
+      "lname": "EL ALLAOUI",
+      "fname": "YOUNES",
+      "notes": {
+        "note1": 20,
+        "note2": 20,
+        "note3": 20,
+        "note4": 20
+      }
+  },
+  {
+      "id": 7,
+      "group":"DEV101",
+      "lname": "EL MOHAMMADY",
+      "fname": "YOUSSEF",
+      "notes": {
+        "note1": 20,
+        "note2": 20,
+        "note3": 20,
+        "note4": 20
+      }
+  },
+  {
+      "id": 8,
+      "group":"DEV101",
+      "lname": "ELASMAI",
+      "fname": "SALMA",
+      "notes": {
+        "note1": 20,
+        "note2": 20,
+        "note3": 20,
+        "note4": 20
+      }
+  },
+  {
+      "id": 9,
+      "group":"DEV101",
+      "lname": "ETTALIBI",
+      "fname": "ASSIA",
+      "notes": {
+        "note1": 20,
+        "note2": 20,
+        "note3": 20,
+        "note4": 20
+      }
+  },
+  {
+      "id": 10,
+      "group":"DEV101",
+      "lname": "FALOUH",
+      "fname": "IKRAM",
+      "notes": {
+        "note1": 20,
+        "note2": 20,
+        "note3": 20,
+        "note4": 20
+      }
+  },
+  {
+      "id": 11,
+      "group":"DEV101",
+      "lname": "HAMIM",
+      "fname": "AYMEN",
+      "notes": {
+        "note1": 20,
+        "note2": 20,
+        "note3": 20,
+        "note4": 20
+      }
+  },
+  {
+      "id": 12,
+      "group":"DEV101",
+      "lname": "HANNAS",
+      "fname": "AYOUB",
+      "notes": {
+        "note1": 20,
+        "note2": 20,
+        "note3": 20,
+        "note4": 20
+      }
+  },
+  {
+      "id": 13,
+      "group":"DEV101",
+      "lname": "HASSANE",
+      "fname": "MERIAM",
+      "notes": {
+        "note1": 20,
+        "note2": 20,
+        "note3": 20,
+        "note4": 20
+      }
+  },
+  {
+      "id": 14,
+      "group":"DEV101",
+      "lname": "IBNELYAZID",
+      "fname": "AKRAM",
+      "notes": {
+        "note1": 20,
+        "note2": 20,
+        "note3": 20,
+        "note4": 20
+      }
+  },
+  {
+      "id": 15,
+      "group":"DEV101",
+      "lname": "JNAH",
+      "fname": "YOUSSEF",
+      "notes": {
+        "note1": 20,
+        "note2": 20,
+        "note3": 20,
+        "note4": 20
+      }
+  },
+  {
+      "id": 16,
+      "group":"DEV101",
+      "lname": "KARAME",
+      "fname": "HAFSA",
+      "notes": {
+        "note1": 20,
+        "note2": 20,
+        "note3": 20,
+        "note4": 20
+      }
+  },
+  {
+      "id": 17,
+      "group":"DEV101",
+      "lname": "SAFAA",
+      "fname": "MELLOUK",
+      "notes": {
+        "note1": 20,
+        "note2": 20,
+        "note3": 20,
+        "note4": 20
+      }
+  },
+  {
+      "id": 18,
+      "group":"DEV101",
+      "lname": "MONYR",
+      "fname": "HAMZA",
+      "notes": {
+        "note1": 20,
+        "note2": 20,
+        "note3": 20,
+        "note4": 20
+      }
+  },
+  {
+      "id": 19,
+      "group":"DEV101",
+      "lname": "OUNAJIM",
+      "fname": "ZAKARIA",
+      "notes": {
+        "note1": 20,
+        "note2": 20,
+        "note3": 20,
+        "note4": 20
+      }
+  },
+  {
+      "id": 20,
+      "group":"DEV101",
+      "lname": "RAMLI",
+      "fname": "IMANE",
+      "notes": {
+        "note1": 20,
+        "note2": 20,
+        "note3": 20,
+        "note4": 20
+      }
+  },
+  {
+      "id": 21,
+      "group":"DEV101",
+      "lname": "ROUANE",
+      "fname": "YASSIR",
+      "notes": {
+        "note1": 20,
+        "note2": 20,
+        "note3": 20,
+        "note4": 2
+      }
+  },
+  {
+      "id": 22,
+      "group":"DEV101",
+      "lname": "SELLOUM",
+      "fname": "ABDERRAHMANE",
+      "notes": {
+        "note1": 20,
+        "note2": 20,
+        "note3": 20,
+        "note4": 20
+      }
+  },
+  {
+      "id": 23,
+      "group":"DEV101",
+      "lname": "SOSSO",
+      "fname": "HAJAR",
+      "notes": {
+        "note1": 20,
+        "note2": 20,
+        "note3": 20,
+        "note4": 20
+      }
+  },
+  {
+      "id": 24,
+      "group":"DEV101",
+      "lname": "THOUMI",
+      "fname": "ABDERRAHMANE",
+      "notes": {
+        "note1": 20,
+        "note2": 20,
+        "note3": 20,
+        "note4": 20
+      }
+  }
+  ]
+}
